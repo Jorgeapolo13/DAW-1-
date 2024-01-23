@@ -12,7 +12,7 @@ public class main {
 		
 		//vehiculos.mostrarTodos();
 		
-		System.out.printf("El precio medio del alquiler es: %.2f\n",vehiculos.precioMedioAlquiler());
+		System.out.printf("El precio medio es: %.2f\n",vehiculos.precioMedioAlquiler());
 	}
 
 }
